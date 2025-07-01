@@ -2,6 +2,7 @@ package stepdefinitions;
 
 import java.time.Duration;
 import java.util.List;
+import org.apache.logging.log4j.Logger;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
@@ -20,22 +21,26 @@ public class CarWashServicesSearch {
 	WebDriverWait wait;
 	Actions act;
 	JavascriptExecutor js;
+	Logger logger;
 	@Given("I am on the Justdial website")
 	public void i_am_on_the_justdial_website() {
-	    driver=DriverManager.getDriver();
-	    driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-	    wait=new WebDriverWait(driver,Duration.ofSeconds(10));
-	    act=new Actions(driver);
+		driver=Hooks.driver;
+		wait=Hooks.wait;
+		logger=Hooks.logger;
+		driver.manage().window().maximize();
+		act=new Actions(driver);
 		js=(JavascriptExecutor) driver;
-	    PropsLoader.loadProps();
-	    driver.get(PropsLoader.URL);
-	    driver.manage().window().maximize();	
-	    try {
-	    	wait.until(ExpectedConditions.visibilityOfElementLocated(By.linkText("Maybe Later"))).click();
-	    }
-	    catch(Exception e) {
-	    	System.out.println("No Login Popup Found");
-	    }
+//		driver=DriverManager.getDriver();
+//	    driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+//	    wait=new WebDriverWait(driver,Duration.ofSeconds(10));
+//	    PropsLoader.loadProps();
+//	    driver.get(PropsLoader.URL);
+//	    try {
+//	    	wait.until(ExpectedConditions.visibilityOfElementLocated(By.linkText("Maybe Later"))).click();
+//	    }
+//	    catch(Exception e) {
+//	    	System.out.println("No Login Popup Found");
+//	    }
 	}
 
 	@When("I specify the Location as detected location")
@@ -43,10 +48,11 @@ public class CarWashServicesSearch {
 //		driver.findElement(By.id("city-auto-sug")).sendKeys(string2);
 //		act.click(driver.findElement(By.id("city-auto-sug")));
 //		Thread.sleep(2000);
-		driver.findElement(By.id("city-auto-sug")).click();
+		wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("city-auto-sug"))).click();
 //		act.click(driver.findElement(By.id("city-auto-sug"))).click().perform();
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@class='location_text font14 fw400 color007']"))).click();
 //		wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//*[@class='location_text font14 fw400 color007']")));
+		logger.info("City auto detected..");
 	}
 	
 	@When("I search for {string}")
@@ -56,7 +62,7 @@ public class CarWashServicesSearch {
 	    Thread.sleep(2000);
 		driver.findElement(By.id("react-autowhatever-main-auto-suggest--item-0")).click();
 //	    act.moveToElement(driver.findElement(By.id("react-autowhatever-main-auto-suggest--item-0"))).click();
-
+		logger.info("Searching for "+string);
 	}
 
 	@When("I apply filters for Rating > {string} stars and Customer Votes > {string}")
@@ -64,6 +70,7 @@ public class CarWashServicesSearch {
 
 		try {
 			wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@onclick='closePopUp(\'best_deal_div\');']"))).click();
+			logger.info("CarWash page popup handled..");
 		}
 		catch(Exception e) {
 			System.out.println("No next popup found");
@@ -77,6 +84,7 @@ public class CarWashServicesSearch {
 		driver.findElement(By.xpath("//span[ @aria-label='Rating']")).click();
 //		driver.findElement(By.id("side_menu_close")).click();
 		driver.findElement(By.xpath("//button[text()='Apply Filters']")).click();
+		logger.info("Filters applied..");
 	}
 
 	@Then("I should see a list of {string} car washing services")
@@ -89,7 +97,8 @@ public class CarWashServicesSearch {
 //		}
 		List<WebElement> servicesList=wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(By.xpath("//div[@class='jsx-7cbb814d75c86232 resultbox ']")));
 		int n=Integer.parseInt(string);
-		for(int i=0;i<n;i++) {
+		logger.info("printing first "+Math.min(servicesList.size(),n)+" names and contact numbers of car wash services..");
+		for(int i=0;i<Math.min(servicesList.size(), n);i++) {
 			WebElement service;
 			String name="";
 			String phone="";
@@ -126,6 +135,7 @@ public class CarWashServicesSearch {
 			}
 			finally {
 				System.out.println("Name: "+name);
+				logger.info("Name: "+name+"\t\tphone: "+phone);
 				System.out.println("phone: "+phone);
 			}
 		}

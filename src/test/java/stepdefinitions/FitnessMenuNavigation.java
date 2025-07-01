@@ -3,6 +3,7 @@ package stepdefinitions;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
@@ -21,22 +22,25 @@ public class FitnessMenuNavigation {
 	WebDriverWait wait;
 	Actions act;
 	JavascriptExecutor js;
+	Logger logger;
 	@Given("I am on the Justdial website again")
 	public void JustdailPage(){
-		driver= DriverManager.driver;
+		driver= Hooks.driver;
+		wait=Hooks.wait;
+		logger=Hooks.logger;
 //		driver=DriverManager.getDriver();
-		wait=new WebDriverWait(driver, Duration.ofSeconds(10));
+//		wait=new WebDriverWait(driver, Duration.ofSeconds(10));
 		act=new Actions(driver);
 		js=(JavascriptExecutor) driver;
-		PropsLoader.loadProps();
+//		PropsLoader.loadProps();
 		driver.get(PropsLoader.URL);
 		driver.manage().window().maximize();
-		try {
-			wait.until(ExpectedConditions.visibilityOfElementLocated(By.linkText("Maybe Later"))).click();
-		}
-		catch(Exception e) {
-			System.out.println("No Login Popup Found");
-		}
+//		try {
+//			wait.until(ExpectedConditions.visibilityOfElementLocated(By.linkText("Maybe Later"))).click();
+//		}
+//		catch(Exception e) {
+//			System.out.println("No Login Popup Found");
+//		}
 	}
 
 	@When("I navigate to the {string} category")
@@ -46,26 +50,31 @@ public class FitnessMenuNavigation {
 		js.executeScript("arguments[0].scrollIntoView()",fitnessElem);
 		js.executeScript("window.scrollTo(0, -50);");
 		fitnessElem.click();
+		logger.info("scrolling to the categories..");
 	}
 
 	@When("I then select the {string} sub-category")
 	public void i_then_select_the_sub_category(String string) {
 	    wait.until(ExpectedConditions.visibilityOfElementLocated(By.linkText("Gyms"))).click();
+		logger.info("Selecting Zym substring..");
 	}
 
 	@Then("I should be able to retrieve all displayed sub-menu items")
 	public void i_should_be_able_to_retrieve_all_displayed_sub_menu_items() {
 	    List<WebElement> zymnames=wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(By.xpath("//h2")));
 		int n=zymnames.size();
+		logger.info("Printing the names of Zyms");
 		for(int i=0;i<Math.max(10,n);i++){
 			try {
 				WebElement elem=zymnames.get(i);
 				System.out.println(elem.getText());
+				logger.info(elem.getText());
 			}
 			catch(Exception e){
 				zymnames=driver.findElements(By.xpath("//h2"));
 				WebElement elem=zymnames.get(i);
 				System.out.println(elem.getText());
+				logger.info(elem.getText());
 			}
 		}
 	}

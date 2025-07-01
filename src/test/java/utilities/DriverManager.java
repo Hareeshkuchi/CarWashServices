@@ -19,5 +19,9 @@ public class DriverManager {
 		driver=new ChromeDriver(options);
 		return driver;
 	}
+
+    public static void quitDriver() {
+		driver.quit();
+    }
 }
 

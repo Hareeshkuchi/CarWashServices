@@ -9,11 +9,11 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features", // Path to feature files
         glue = "stepdefinitions",    // Path to step definition classes
         plugin = {"pretty",          // Prints Gherkin steps to console
-                "html:target/cucumber-reports/cucumber-html-report.html",
-//                ,"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
+                "html:test-output/cucumber-reports/cucumber-html-report.html"
+                ,"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
         },
         monochrome = true                       // Makes console output more readable
-        ,tags = "@Carwash"       // Runs scenarios with these tags
+//        ,tags = "@Carwash"       // Runs scenarios with these tags
 //        ,tags="@FreeList"
 //        ,tags="@fitness"
 )

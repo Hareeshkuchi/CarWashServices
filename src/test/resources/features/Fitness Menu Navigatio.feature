@@ -6,8 +6,11 @@ Feature: Fitness Menu Items Retrieval
   I want to explore fitness related options
   So that I can find specific gym services
 
-  Scenario: Retrieve and display sub-menu items under Fitness > Gym
+  Scenario Outline: Retrieve and display sub-menu items under Fitness > Gym
     Given I am on the Justdial website again
-    When I navigate to the "Fitness" category
-    And I then select the "Gym" sub-category
-    Then I should be able to retrieve all displayed sub-menu items
+    When I navigate to the Fitness category
+    And I then select the Gym sub-category
+    Then I should be able to retrieve "<numOfZymsIndex>" displayed sub-menu items
+    Examples:
+    |numOfZymsIndex|
+    |6             |

@@ -601,3 +601,645 @@ java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreensh
 2025-07-01 14:34:14 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
 2025-07-01 14:34:26 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
 2025-07-01 14:34:34 INFO  Hooks:95 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED
+2025-07-01 15:33:45 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-01 15:33:58 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-01 15:33:58 INFO  Hooks:55 - City auto detected..
+2025-07-01 15:34:01 INFO  Hooks:65 - Searching for Car Washing Services
+2025-07-01 15:34:05 INFO  Hooks:87 - Filters applied..
+2025-07-01 15:34:06 INFO  Hooks:100 - printing first 5 names and contact numbers of car wash services..
+2025-07-01 15:34:09 INFO  Hooks:138 - Name: Krishna Tyres		phone: 07942700938
+2025-07-01 15:34:11 INFO  Hooks:138 - Name: DD CAR EXPERTS		phone: 07947112143
+2025-07-01 15:34:21 INFO  Hooks:138 - Name: MyTVS MultiBrand Car Service		phone: 09740226850
+2025-07-01 15:34:24 INFO  Hooks:138 - Name: Popular Car Wash		phone: 07947125592
+2025-07-01 15:34:34 INFO  Hooks:138 - Name: Futurex Car Care		phone: 08123399852
+2025-07-01 15:34:38 INFO  Hooks:95 - Finished scenario: Display top 5 car wash services meeting criteria with status: PASSED
+2025-07-01 15:34:38 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-01 15:34:51 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-01 15:35:04 INFO  Hooks:64 - Entering 123 into mobile input
+2025-07-01 15:35:04 ERROR Hooks:76 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-01 15:35:04 INFO  Hooks:84 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-01 15:35:09 INFO  Hooks:95 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-01 15:35:09 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-01 15:35:22 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-01 15:35:23 INFO  Hooks:53 - scrolling to the categories..
+2025-07-01 15:35:24 INFO  Hooks:59 - Selecting Zym substring..
+2025-07-01 15:35:25 INFO  Hooks:66 - Printing the names of Zyms
+2025-07-01 15:35:25 INFO  Hooks:71 - Fitzee Gym
+2025-07-01 15:35:25 INFO  Hooks:71 - Hiit360 Fitness Studio
+2025-07-01 15:35:25 INFO  Hooks:71 - Slam Lifestyle And Fitness Studio (BMR Mall)
+2025-07-01 15:35:25 INFO  Hooks:71 - Sigma Lifestyle & Fitness Studio Gym
+2025-07-01 15:35:25 INFO  Hooks:71 - 24 X 7 Fitness Studio
+2025-07-01 15:35:25 INFO  Hooks:71 - ShapeMeup Lifestyle & Fitness Studio
+2025-07-01 15:35:25 INFO  Hooks:71 - Body Sculptures Fitness Studio
+2025-07-01 15:35:25 INFO  Hooks:71 - DFIT
+2025-07-01 15:35:25 INFO  Hooks:71 - Mac Fitness Studio
+Ad
+2025-07-01 15:35:25 INFO  Hooks:71 - Slam Lifestyle And Fitness Studio
+Ad
+2025-07-01 15:35:29 INFO  Hooks:95 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED
+2025-07-01 15:37:24 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-01 15:37:38 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-01 15:37:39 INFO  Hooks:55 - City auto detected..
+2025-07-01 15:37:41 INFO  Hooks:65 - Searching for Car Washing Services
+2025-07-01 15:37:45 INFO  Hooks:87 - Filters applied..
+2025-07-01 15:37:46 INFO  Hooks:100 - printing first 5 names and contact numbers of car wash services..
+2025-07-01 15:37:48 INFO  Hooks:138 - Name: Krishna Tyres		phone: 07942687230
+2025-07-01 15:37:51 INFO  Hooks:138 - Name: DD CAR EXPERTS		phone: 07947432166
+2025-07-01 15:38:01 INFO  Hooks:138 - Name: MyTVS MultiBrand Car Service		phone: 09740226850
+2025-07-01 15:38:03 INFO  Hooks:138 - Name: Popular Car Wash		phone: 07947103247
+2025-07-01 15:38:14 INFO  Hooks:138 - Name: Futurex Car Care		phone: 08123399852
+2025-07-01 15:38:18 INFO  Hooks:95 - Finished scenario: Display top 5 car wash services meeting criteria with status: PASSED
+2025-07-01 15:38:18 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-02 16:24:33 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-02 16:24:42 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-02 16:24:49 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-02 16:24:49 INFO  Hooks:53 - Clicked on city auto suggest input.
+2025-07-02 16:25:00 INFO  Hooks:59 - Selected detected location.
+2025-07-02 16:25:03 INFO  Hooks:65 - Entered 'Car Washing Services' into search bar.
+2025-07-02 16:25:03 INFO  Hooks:70 - Selected the first auto-suggest item.
+2025-07-02 16:25:03 INFO  Hooks:45 - No 'Best Deal' popup found.
+2025-07-02 16:25:05 INFO  Hooks:51 - Clicked 'All Filters' button.
+2025-07-02 16:25:08 INFO  Hooks:60 - Applied rating filter: 4+ stars.
+2025-07-02 16:25:09 INFO  Hooks:65 - Clicked 'Apply Filters' button.
+2025-07-02 16:25:11 INFO  Hooks:72 - Retrieving details for the first 5 car wash services.
+2025-07-02 16:25:47 INFO  Hooks:64 - Name: Krishna Tyres		Phone: 07947132918
+2025-07-02 16:25:47 INFO  Hooks:64 - Name: DD CAR EXPERTS		Phone: 07947413863
+2025-07-02 16:25:47 INFO  Hooks:64 - Name: MyTVS MultiBrand Car Service		Phone: 09740226850
+2025-07-02 16:25:47 INFO  Hooks:64 - Name: Popular Car Wash		Phone: 07947122870
+2025-07-02 16:25:47 INFO  Hooks:64 - Name: Futurex Car Care		Phone: 08123399852
+2025-07-02 16:25:53 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: PASSED
+2025-07-02 16:25:53 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-02 16:26:05 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-02 16:26:11 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-02 16:26:13 INFO  Hooks:48 - Clicked on 'Free Listing' link.
+2025-07-02 16:26:23 INFO  Hooks:34 - No Free Listing popup found.
+2025-07-02 16:26:24 INFO  Hooks:41 - Entered '123' into mobile number input.
+2025-07-02 16:26:24 INFO  Hooks:46 - Clicked 'Start Now' button.
+2025-07-02 16:26:24 INFO  Hooks:52 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-02 16:26:24 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-02 16:26:25 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-02 16:26:34 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-02 16:26:34 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-02 16:26:44 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-02 16:26:51 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-02 16:26:51 INFO  Hooks:37 - Scrolled to Fitness category.
+2025-07-02 16:26:52 INFO  Hooks:42 - Clicked on Fitness category tab.
+2025-07-02 16:26:52 ERROR Hooks:46 - Unsupported sub-category for selection: Gym
+2025-07-02 16:26:53 INFO  Hooks:53 - Printing the names of Gyms:
+2025-07-02 16:26:53 INFO  Hooks:56 - Wedding Requisites
+2025-07-02 16:26:53 INFO  Hooks:56 - Beauty & Spa
+2025-07-02 16:26:53 INFO  Hooks:56 - Repairs & Services
+2025-07-02 16:26:53 INFO  Hooks:56 - Daily Needs
+2025-07-02 16:26:53 INFO  Hooks:56 - Bills & Recharge
+2025-07-02 16:26:53 INFO  Hooks:56 - Travel Bookings
+2025-07-02 16:26:53 INFO  Hooks:56 - Trending Searches Near You
+NEW
+2025-07-02 16:26:53 INFO  Hooks:56 - Latest Movies & Review
+2025-07-02 16:26:53 INFO  Hooks:56 - Explore Top Tourist Places
+NEW
+2025-07-02 16:26:53 INFO  Hooks:56 - Popular Searches
+2025-07-02 16:26:53 INFO  Hooks:56 - Sunny Day Essentials
+SEASONAL
+2025-07-02 16:26:53 INFO  Hooks:56 - Recent Activity
+2025-07-02 16:26:53 INFO  Hooks:56 - Follow us on
+2025-07-02 16:26:53 INFO  Hooks:56 - Some of our services that will prove useful to you on a day-to-day basis are :
+2025-07-02 16:26:53 INFO  Hooks:56 - Some of the other services that can be of assistance to you for leisure, health and home convenience are - Pest Control, Skin Care Clinics, Painters, Laundry Services, Interior Designers, Mobile Phone Repair, Vaccination Centres, Internet Service Providers, etc. With an endless number of things under the sun, you can be sure this will be your 'One Stop Shop' to find everything and more.
+2025-07-02 16:26:58 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED
+2025-07-02 16:28:53 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-02 16:29:02 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-02 16:29:09 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-02 16:29:09 INFO  Hooks:37 - Scrolled to Fitness category.
+2025-07-02 16:29:10 INFO  Hooks:42 - Clicked on Fitness category tab.
+2025-07-02 16:29:10 INFO  Hooks:47 - Selected 'Gyms' sub-category.
+2025-07-02 16:29:12 INFO  Hooks:45 - Printing the names of Gyms:
+2025-07-02 16:29:12 INFO  Hooks:48 - Fitzee Gym
+2025-07-02 16:29:12 INFO  Hooks:48 - Hiit360 Fitness Studio
+2025-07-02 16:29:12 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio (BMR Mall)
+2025-07-02 16:29:12 INFO  Hooks:48 - Sigma Lifestyle & Fitness Studio Gym
+2025-07-02 16:29:12 INFO  Hooks:48 - 24 X 7 Fitness Studio
+2025-07-02 16:29:12 INFO  Hooks:48 - ShapeMeup Lifestyle & Fitness Studio
+2025-07-02 16:29:12 INFO  Hooks:48 - Body Sculptures Fitness Studio
+2025-07-02 16:29:12 INFO  Hooks:48 - DFIT
+2025-07-02 16:29:12 INFO  Hooks:48 - Mac Fitness Studio
+Ad
+2025-07-02 16:29:12 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio
+Ad
+2025-07-02 16:29:17 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED
+2025-07-02 16:35:14 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-02 16:35:24 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-02 16:35:30 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-02 16:35:30 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-02 16:35:41 INFO  Hooks:60 - Selected detected location.
+2025-07-02 16:35:44 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-02 16:35:44 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-02 16:35:44 INFO  Hooks:46 - No 'Best Deal' popup found.
+2025-07-02 16:35:46 INFO  Hooks:52 - Clicked 'All Filters' button.
+2025-07-02 16:35:49 INFO  Hooks:61 - Applied rating filter: 4+ stars.
+2025-07-02 16:35:49 INFO  Hooks:66 - Clicked 'Apply Filters' button.
+2025-07-02 16:35:51 INFO  Hooks:73 - Retrieving details for the first 5 car wash services.
+2025-07-02 16:36:20 INFO  Hooks:61 - Name: Krishna Tyres		Phone: 07942683305
+2025-07-02 16:36:20 INFO  Hooks:61 - Name: DD CAR EXPERTS		Phone: 07947123572
+2025-07-02 16:36:20 INFO  Hooks:61 - Name: MyTVS MultiBrand Car Service		Phone: 09740226850
+2025-07-02 16:36:20 INFO  Hooks:61 - Name: Popular Car Wash		Phone: 07947422530
+2025-07-02 16:36:20 INFO  Hooks:61 - Name: Futurex Car Care		Phone: 08123399852
+2025-07-02 16:36:25 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: PASSED
+2025-07-02 17:02:44 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-02 17:02:54 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-02 17:02:59 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-02 17:03:00 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-02 17:03:00 INFO  Hooks:60 - Selected detected location.
+2025-07-02 17:03:03 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-02 17:03:03 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-02 17:03:03 INFO  Hooks:46 - No 'Best Deal' popup found.
+2025-07-02 17:03:05 INFO  Hooks:52 - Clicked 'All Filters' button.
+2025-07-02 17:03:07 INFO  Hooks:61 - Applied rating filter: 4+ stars.
+2025-07-02 17:03:08 INFO  Hooks:66 - Clicked 'Apply Filters' button.
+2025-07-02 17:03:09 INFO  Hooks:73 - Retrieving details for the first 5 car wash services.
+2025-07-02 17:03:39 INFO  Hooks:61 - Name: Krishna Tyres		Phone: 07947426116
+2025-07-02 17:03:39 INFO  Hooks:61 - Name: DD CAR EXPERTS		Phone: 07947127221
+2025-07-02 17:03:39 INFO  Hooks:61 - Name: MyTVS MultiBrand Car Service		Phone: 09740226850
+2025-07-02 17:03:39 INFO  Hooks:61 - Name: Popular Car Wash		Phone: 07947128708
+2025-07-02 17:03:39 INFO  Hooks:61 - Name: Futurex Car Care		Phone: 08123399852
+2025-07-02 17:03:44 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: PASSED
+2025-07-02 17:05:06 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-02 17:05:17 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-02 17:05:23 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-02 17:05:23 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-02 17:05:24 INFO  Hooks:60 - Selected detected location.
+2025-07-02 17:05:26 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-02 17:05:26 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-02 17:05:27 INFO  Hooks:46 - No 'Best Deal' popup found.
+2025-07-02 17:05:28 INFO  Hooks:52 - Clicked 'All Filters' button.
+2025-07-02 17:05:31 INFO  Hooks:61 - Applied rating filter: 4+ stars.
+2025-07-02 17:05:31 INFO  Hooks:66 - Clicked 'Apply Filters' button.
+2025-07-02 17:05:32 INFO  Hooks:73 - Retrieving details for the first 5 car wash services.
+2025-07-02 17:06:02 INFO  Hooks:61 - Name: Krishna Tyres		Phone: 07947109966
+2025-07-02 17:06:02 INFO  Hooks:61 - Name: DD CAR EXPERTS		Phone: 07947427617
+2025-07-02 17:06:02 INFO  Hooks:61 - Name: MyTVS MultiBrand Car Service		Phone: 09740226850
+2025-07-02 17:06:02 INFO  Hooks:61 - Name: Popular Car Wash		Phone: 07947144710
+2025-07-02 17:06:02 INFO  Hooks:61 - Name: Futurex Car Care		Phone: 08123399852
+2025-07-02 17:06:07 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: PASSED
+2025-07-02 17:07:41 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-02 17:07:49 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-02 17:07:56 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-02 17:07:59 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-02 17:08:09 INFO  Hooks:35 - No Free Listing popup found.
+2025-07-02 17:08:09 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-02 17:08:10 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-02 17:08:10 INFO  Hooks:53 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-02 17:08:10 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-02 17:08:10 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-02 17:08:14 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-02 17:08:48 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-02 17:08:57 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-02 17:09:03 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-02 17:09:06 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-02 17:09:06 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-02 17:09:07 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-02 17:09:07 INFO  Hooks:53 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-02 17:09:07 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-02 17:09:08 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-02 17:09:13 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-02 17:09:39 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-02 17:09:48 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-02 17:09:54 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-02 17:09:55 INFO  Hooks:38 - Scrolled to Fitness category.
+2025-07-02 17:09:55 INFO  Hooks:43 - Clicked on Fitness category tab.
+2025-07-02 17:09:56 INFO  Hooks:48 - Selected 'Gyms' sub-category.
+2025-07-02 17:09:58 INFO  Hooks:45 - Printing the names of Gyms:
+2025-07-02 17:09:58 INFO  Hooks:48 - Fitzee Gym
+2025-07-02 17:09:58 INFO  Hooks:48 - Hiit360 Fitness Studio
+2025-07-02 17:09:58 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio (BMR Mall)
+2025-07-02 17:09:58 INFO  Hooks:48 - Sigma Lifestyle & Fitness Studio Gym
+2025-07-02 17:09:58 INFO  Hooks:48 - 24 X 7 Fitness Studio
+2025-07-02 17:09:58 INFO  Hooks:48 - ShapeMeup Lifestyle & Fitness Studio
+2025-07-02 17:09:58 INFO  Hooks:48 - Body Sculptures Fitness Studio
+2025-07-02 17:09:58 INFO  Hooks:48 - DFIT
+2025-07-02 17:09:58 INFO  Hooks:48 - Mac Fitness Studio
+Ad
+2025-07-02 17:09:58 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio
+Ad
+2025-07-02 17:10:02 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED
+2025-07-04 09:24:17 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-04 09:24:27 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 09:24:33 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 09:24:34 INFO  Hooks:38 - Scrolled to Fitness category.
+2025-07-04 09:24:34 INFO  Hooks:43 - Clicked on Fitness category tab.
+2025-07-04 09:24:35 INFO  Hooks:48 - Selected 'Gyms' sub-category.
+2025-07-04 09:24:37 INFO  Hooks:45 - Printing the names of Gyms:
+2025-07-04 09:24:37 INFO  Hooks:48 - Fitzee Gym
+2025-07-04 09:24:37 INFO  Hooks:48 - Hiit360 Fitness Studio
+2025-07-04 09:24:37 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio (BMR Mall)
+2025-07-04 09:24:37 INFO  Hooks:48 - Sigma Lifestyle & Fitness Studio Gym
+2025-07-04 09:24:37 INFO  Hooks:48 - 24 X 7 Fitness Studio
+2025-07-04 09:24:37 INFO  Hooks:48 - ShapeMeup Lifestyle & Fitness Studio
+2025-07-04 09:24:37 INFO  Hooks:48 - Body Sculptures Fitness Studio
+2025-07-04 09:24:37 INFO  Hooks:48 - DFIT
+2025-07-04 09:24:37 INFO  Hooks:48 - Mac Fitness Studio
+Ad
+2025-07-04 09:24:37 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio
+Ad
+2025-07-04 09:24:41 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED
+2025-07-04 09:25:48 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-04 09:25:56 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 09:26:02 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 09:26:03 INFO  Hooks:38 - Scrolled to Fitness category.
+2025-07-04 09:26:03 INFO  Hooks:43 - Clicked on Fitness category tab.
+2025-07-04 09:26:04 INFO  Hooks:48 - Selected 'Gyms' sub-category.
+2025-07-04 09:26:06 INFO  Hooks:45 - Printing the names of Gyms:
+2025-07-04 09:26:06 INFO  Hooks:48 - Fitzee Gym
+
+2025-07-04 09:26:06 INFO  Hooks:48 - Hiit360 Fitness Studio
+
+2025-07-04 09:26:06 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio (BMR Mall)
+
+2025-07-04 09:26:06 INFO  Hooks:48 - Sigma Lifestyle & Fitness Studio Gym
+
+2025-07-04 09:26:06 INFO  Hooks:48 - 24 X 7 Fitness Studio
+
+2025-07-04 09:26:06 INFO  Hooks:48 - ShapeMeup Lifestyle & Fitness Studio
+
+2025-07-04 09:26:06 INFO  Hooks:48 - Body Sculptures Fitness Studio
+
+2025-07-04 09:26:06 INFO  Hooks:48 - DFIT
+
+2025-07-04 09:26:06 INFO  Hooks:48 - Mac Fitness Studio
+Ad
+
+2025-07-04 09:26:06 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio
+Ad
+
+2025-07-04 09:26:10 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED
+2025-07-04 09:35:45 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-04 09:35:54 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 09:36:00 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 09:36:01 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-04 09:36:01 INFO  Hooks:60 - Selected detected location.
+2025-07-04 09:36:06 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-04 09:36:06 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-04 09:36:07 INFO  Hooks:46 - No 'Best Deal' popup found.
+2025-07-04 09:36:08 INFO  Hooks:52 - Clicked 'All Filters' button.
+2025-07-04 09:36:20 ERROR Hooks:68 - Scenario failed: Display top 5 car wash services meeting criteria
+2025-07-04 09:36:21 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Display top 5 car wash services meeting criteria
+2025-07-04 09:36:27 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: FAILED
+2025-07-04 09:36:27 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-04 09:36:34 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 09:36:41 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 09:36:43 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-04 09:36:43 INFO  Hooks:42 - Entered '5' into mobile number input.
+2025-07-04 09:36:44 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-04 09:36:44 INFO  Hooks:53 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-04 09:36:44 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-04 09:36:45 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-04 09:36:49 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-04 09:36:49 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-04 09:36:56 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 09:37:02 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 09:37:03 INFO  Hooks:38 - Scrolled to Fitness category.
+2025-07-04 09:37:03 INFO  Hooks:43 - Clicked on Fitness category tab.
+2025-07-04 09:37:04 INFO  Hooks:48 - Selected 'Gyms' sub-category.
+2025-07-04 09:37:06 INFO  Hooks:45 - Printing the names of Gyms:
+2025-07-04 09:37:06 INFO  Hooks:48 - Fitzee Gym
+
+2025-07-04 09:37:06 INFO  Hooks:48 - Hiit360 Fitness Studio
+
+2025-07-04 09:37:06 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio (BMR Mall)
+
+2025-07-04 09:37:06 INFO  Hooks:48 - Sigma Lifestyle & Fitness Studio Gym
+
+2025-07-04 09:37:06 INFO  Hooks:48 - 24 X 7 Fitness Studio
+
+2025-07-04 09:37:06 INFO  Hooks:48 - ShapeMeup Lifestyle & Fitness Studio
+
+2025-07-04 09:37:06 INFO  Hooks:48 - Body Sculptures Fitness Studio
+
+2025-07-04 09:37:06 INFO  Hooks:48 - DFIT
+
+2025-07-04 09:37:06 INFO  Hooks:48 - Mac Fitness Studio
+Ad
+
+2025-07-04 09:37:06 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio
+Ad
+
+2025-07-04 09:37:10 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED
+2025-07-04 09:37:40 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-04 09:37:49 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 09:37:55 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 09:37:55 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-04 09:37:56 INFO  Hooks:60 - Selected detected location.
+2025-07-04 09:38:00 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-04 09:38:00 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-04 09:38:01 INFO  Hooks:46 - No 'Best Deal' popup found.
+2025-07-04 09:38:02 INFO  Hooks:52 - Clicked 'All Filters' button.
+2025-07-04 09:38:14 ERROR Hooks:68 - Scenario failed: Display top 5 car wash services meeting criteria
+2025-07-04 09:38:15 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Display top 5 car wash services meeting criteria
+2025-07-04 09:38:20 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: FAILED
+2025-07-04 09:38:46 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-04 09:38:56 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 09:39:01 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 09:39:02 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-04 09:39:02 INFO  Hooks:60 - Selected detected location.
+2025-07-04 09:39:07 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-04 09:39:07 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-04 09:39:08 INFO  Hooks:46 - No 'Best Deal' popup found.
+2025-07-04 09:39:09 INFO  Hooks:52 - Clicked 'All Filters' button.
+2025-07-04 09:39:21 ERROR Hooks:68 - Scenario failed: Display top 5 car wash services meeting criteria
+2025-07-04 09:39:22 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Display top 5 car wash services meeting criteria
+2025-07-04 09:39:28 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: FAILED
+2025-07-04 10:06:46 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-04 10:06:56 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:07:02 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:07:02 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-04 10:07:03 INFO  Hooks:60 - Selected detected location.
+2025-07-04 10:07:07 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-04 10:07:08 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-04 10:07:09 INFO  Hooks:46 - No 'Best Deal' popup found.
+2025-07-04 10:07:11 INFO  Hooks:52 - Clicked 'All Filters' button.
+2025-07-04 10:07:23 ERROR Hooks:68 - Scenario failed: Display top 5 car wash services meeting criteria
+2025-07-04 10:07:24 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Display top 5 car wash services meeting criteria
+2025-07-04 10:07:32 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: FAILED
+2025-07-04 10:14:50 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-04 10:14:59 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:15:05 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:15:06 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-04 10:15:06 INFO  Hooks:60 - Selected detected location.
+2025-07-04 10:15:10 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-04 10:15:11 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-04 10:15:11 INFO  Hooks:46 - No 'Best Deal' popup found.
+2025-07-04 10:15:13 INFO  Hooks:52 - Clicked 'All Filters' button.
+2025-07-04 10:15:25 ERROR Hooks:68 - Scenario failed: Display top 5 car wash services meeting criteria
+2025-07-04 10:15:27 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Display top 5 car wash services meeting criteria
+2025-07-04 10:15:34 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: FAILED
+2025-07-04 10:16:32 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-04 10:16:42 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:16:48 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:16:48 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-04 10:16:49 INFO  Hooks:60 - Selected detected location.
+2025-07-04 10:16:53 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-04 10:16:53 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-04 10:16:54 INFO  Hooks:46 - No 'Best Deal' popup found.
+2025-07-04 10:16:55 INFO  Hooks:52 - Clicked 'All Filters' button.
+2025-07-04 10:16:57 INFO  Hooks:62 - Applied rating filter: 4.0+ stars.
+2025-07-04 10:16:58 INFO  Hooks:67 - Clicked 'Apply Filters' button.
+2025-07-04 10:16:58 ERROR Hooks:68 - Scenario failed: Display top 5 car wash services meeting criteria
+2025-07-04 10:16:59 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Display top 5 car wash services meeting criteria
+2025-07-04 10:17:06 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: FAILED
+2025-07-04 10:19:11 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-04 10:19:21 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:19:27 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:19:27 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-04 10:19:28 INFO  Hooks:60 - Selected detected location.
+2025-07-04 10:19:32 INFO  Hooks:66 - Entered '0' into search bar.
+2025-07-04 10:19:42 ERROR Hooks:68 - Scenario failed: Display top 5 car wash services meeting criteria
+2025-07-04 10:19:43 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Display top 5 car wash services meeting criteria
+2025-07-04 10:19:48 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: FAILED
+2025-07-04 10:23:04 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-04 10:23:14 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:23:20 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:23:20 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-04 10:23:21 INFO  Hooks:60 - Selected detected location.
+2025-07-04 10:23:25 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-04 10:23:26 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-04 10:23:27 INFO  Hooks:46 - No 'Best Deal' popup found.
+2025-07-04 10:23:28 INFO  Hooks:52 - Clicked 'All Filters' button.
+2025-07-04 10:23:31 INFO  Hooks:62 - Applied rating filter: 4.0+ stars.
+2025-07-04 10:23:31 INFO  Hooks:67 - Clicked 'Apply Filters' button.
+2025-07-04 10:23:32 INFO  Hooks:74 - Retrieving details for the first 5 car wash services.
+2025-07-04 10:24:01 INFO  Hooks:64 - Name: Krishna Tyres		Phone: 07947128860
+2025-07-04 10:24:01 INFO  Hooks:64 - Name: DD CAR EXPERTS		Phone: 07947436198
+2025-07-04 10:24:01 INFO  Hooks:64 - Name: MyTVS MultiBrand Car Service		Phone: 09740226850
+2025-07-04 10:24:01 INFO  Hooks:64 - Name: Popular Car Wash		Phone: Loading...
+2025-07-04 10:24:01 INFO  Hooks:64 - Name: Futurex Car Care		Phone: 08123399852
+2025-07-04 10:24:07 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: PASSED
+2025-07-04 10:24:38 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-04 10:24:48 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:24:55 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:24:55 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-04 10:24:56 INFO  Hooks:60 - Selected detected location.
+2025-07-04 10:25:00 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-04 10:25:00 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-04 10:25:01 INFO  Hooks:46 - No 'Best Deal' popup found.
+2025-07-04 10:25:02 INFO  Hooks:52 - Clicked 'All Filters' button.
+2025-07-04 10:25:05 INFO  Hooks:62 - Applied rating filter: 4.0+ stars.
+2025-07-04 10:25:05 INFO  Hooks:67 - Clicked 'Apply Filters' button.
+2025-07-04 10:25:06 INFO  Hooks:74 - Retrieving details for the first 5 car wash services.
+2025-07-04 10:25:36 INFO  Hooks:64 - Name: Krishna Tyres		Phone: 07947417596
+2025-07-04 10:25:36 INFO  Hooks:64 - Name: DD CAR EXPERTS		Phone: 07942699018
+2025-07-04 10:25:36 INFO  Hooks:64 - Name: MyTVS MultiBrand Car Service		Phone: 09740226850
+2025-07-04 10:25:36 INFO  Hooks:64 - Name: Popular Car Wash		Phone: 07942688080
+2025-07-04 10:25:36 INFO  Hooks:64 - Name: Futurex Car Care		Phone: 08123399852
+2025-07-04 10:25:41 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: PASSED
+2025-07-04 10:25:41 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-04 10:25:51 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:25:57 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:25:59 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-04 10:26:00 INFO  Hooks:42 - Entered '5' into mobile number input.
+2025-07-04 10:26:00 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-04 10:26:00 INFO  Hooks:53 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-04 10:26:01 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-04 10:26:01 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-04 10:26:06 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-04 10:26:06 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-04 10:26:15 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:26:21 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:26:22 INFO  Hooks:38 - Scrolled to Fitness category.
+2025-07-04 10:26:22 INFO  Hooks:43 - Clicked on Fitness category tab.
+2025-07-04 10:26:23 INFO  Hooks:48 - Selected 'Gyms' sub-category.
+2025-07-04 10:26:25 INFO  Hooks:45 - Printing the names of Gyms:
+2025-07-04 10:26:25 INFO  Hooks:48 - Fitzee Gym
+
+2025-07-04 10:26:25 INFO  Hooks:48 - Hiit360 Fitness Studio
+
+2025-07-04 10:26:25 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio (BMR Mall)
+
+2025-07-04 10:26:25 INFO  Hooks:48 - Sigma Lifestyle & Fitness Studio Gym
+
+2025-07-04 10:26:25 INFO  Hooks:48 - 24 X 7 Fitness Studio
+
+2025-07-04 10:26:25 INFO  Hooks:48 - ShapeMeup Lifestyle & Fitness Studio
+
+2025-07-04 10:26:25 INFO  Hooks:48 - Body Sculptures Fitness Studio
+
+2025-07-04 10:26:25 INFO  Hooks:48 - DFIT
+
+2025-07-04 10:26:25 INFO  Hooks:48 - Mac Fitness Studio
+Ad
+
+2025-07-04 10:26:25 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio
+Ad
+
+2025-07-04 10:26:29 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED
+2025-07-04 10:30:52 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-04 10:31:02 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:31:08 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:31:09 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-04 10:31:09 INFO  Hooks:60 - Selected detected location.
+2025-07-04 10:31:13 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-04 10:31:14 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-04 10:31:14 INFO  Hooks:46 - No 'Best Deal' popup found.
+2025-07-04 10:31:15 INFO  Hooks:52 - Clicked 'All Filters' button.
+2025-07-04 10:31:18 INFO  Hooks:62 - Applied rating filter: 4.0+ stars.
+2025-07-04 10:31:19 INFO  Hooks:67 - Clicked 'Apply Filters' button.
+2025-07-04 10:31:20 INFO  Hooks:74 - Retrieving details for the first 5 car wash services.
+2025-07-04 10:31:49 INFO  Hooks:64 - Name: Krishna Tyres		Phone: 07947418856
+2025-07-04 10:31:49 INFO  Hooks:64 - Name: DD CAR EXPERTS		Phone: 07947116552
+2025-07-04 10:31:49 INFO  Hooks:64 - Name: MyTVS MultiBrand Car Service		Phone: 09740226850
+2025-07-04 10:31:49 INFO  Hooks:64 - Name: Popular Car Wash		Phone: 07947435098
+2025-07-04 10:31:49 INFO  Hooks:64 - Name: Futurex Car Care		Phone: 08123399852
+2025-07-04 10:31:54 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: PASSED
+2025-07-04 10:31:54 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-04 10:32:04 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:32:10 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:32:13 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-04 10:32:13 INFO  Hooks:42 - Entered '5' into mobile number input.
+2025-07-04 10:32:14 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-04 10:32:15 INFO  Hooks:53 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-04 10:32:15 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-04 10:32:16 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-04 10:32:20 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-04 10:32:20 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-04 10:32:30 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:32:36 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:32:37 INFO  Hooks:38 - Scrolled to Fitness category.
+2025-07-04 10:32:38 INFO  Hooks:43 - Clicked on Fitness category tab.
+2025-07-04 10:32:39 INFO  Hooks:48 - Selected 'Gyms' sub-category.
+2025-07-04 10:32:41 INFO  Hooks:45 - Printing the names of Gyms:
+2025-07-04 10:32:41 INFO  Hooks:48 - Fitzee Gym
+
+2025-07-04 10:32:41 INFO  Hooks:48 - Hiit360 Fitness Studio
+
+2025-07-04 10:32:41 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio (BMR Mall)
+
+2025-07-04 10:32:41 INFO  Hooks:48 - Sigma Lifestyle & Fitness Studio Gym
+
+2025-07-04 10:32:41 INFO  Hooks:48 - 24 X 7 Fitness Studio
+
+2025-07-04 10:32:41 INFO  Hooks:48 - ShapeMeup Lifestyle & Fitness Studio
+
+2025-07-04 10:32:41 INFO  Hooks:48 - Body Sculptures Fitness Studio
+
+2025-07-04 10:32:41 INFO  Hooks:48 - DFIT
+
+2025-07-04 10:32:41 INFO  Hooks:48 - Mac Fitness Studio
+Ad
+
+2025-07-04 10:32:41 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio
+Ad
+
+2025-07-04 10:32:45 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED
+2025-07-04 10:33:38 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-04 10:33:47 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:33:53 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:33:54 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-04 10:33:54 INFO  Hooks:60 - Selected detected location.
+2025-07-04 10:33:59 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-04 10:33:59 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-04 10:34:00 INFO  Hooks:47 - No 'Best Deal' popup found.
+2025-07-04 10:34:01 INFO  Hooks:53 - Clicked 'All Filters' button.
+2025-07-04 10:34:04 INFO  Hooks:63 - Applied rating filter: 4.0+ stars.
+2025-07-04 10:34:04 INFO  Hooks:68 - Clicked 'Apply Filters' button.
+2025-07-04 10:34:05 INFO  Hooks:75 - Retrieving details for the first 5 car wash services.
+2025-07-04 10:34:34 INFO  Hooks:64 - Name: Krishna Tyres		Phone: 07947415189
+2025-07-04 10:34:34 INFO  Hooks:64 - Name: DD CAR EXPERTS		Phone: 07947112018
+2025-07-04 10:34:34 INFO  Hooks:64 - Name: MyTVS MultiBrand Car Service		Phone: 09740226850
+2025-07-04 10:34:34 INFO  Hooks:64 - Name: Popular Car Wash		Phone: 07942690368
+2025-07-04 10:34:34 INFO  Hooks:64 - Name: Futurex Car Care		Phone: 08123399852
+2025-07-04 10:34:40 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: PASSED
+2025-07-04 10:34:40 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-04 10:34:49 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:34:55 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:34:57 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-04 10:34:58 INFO  Hooks:42 - Entered '5' into mobile number input.
+2025-07-04 10:34:58 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-04 10:34:58 INFO  Hooks:53 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-04 10:34:58 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-04 10:34:59 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-04 10:35:04 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-04 10:35:04 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-04 10:35:12 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:35:18 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:35:19 INFO  Hooks:38 - Scrolled to Fitness category.
+2025-07-04 10:35:20 INFO  Hooks:43 - Clicked on Fitness category tab.
+2025-07-04 10:35:20 INFO  Hooks:48 - Selected 'Gyms' sub-category.
+2025-07-04 10:35:22 INFO  Hooks:45 - Printing the names of Gyms:
+2025-07-04 10:35:22 INFO  Hooks:48 - Fitzee Gym
+
+2025-07-04 10:35:22 INFO  Hooks:48 - Hiit360 Fitness Studio
+
+2025-07-04 10:35:22 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio (BMR Mall)
+
+2025-07-04 10:35:22 INFO  Hooks:48 - Sigma Lifestyle & Fitness Studio Gym
+
+2025-07-04 10:35:22 INFO  Hooks:48 - 24 X 7 Fitness Studio
+
+2025-07-04 10:35:22 INFO  Hooks:48 - ShapeMeup Lifestyle & Fitness Studio
+
+2025-07-04 10:35:22 INFO  Hooks:48 - Body Sculptures Fitness Studio
+
+2025-07-04 10:35:22 INFO  Hooks:48 - DFIT
+
+2025-07-04 10:35:22 INFO  Hooks:48 - Mac Fitness Studio
+Ad
+
+2025-07-04 10:35:22 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio
+Ad
+
+2025-07-04 10:35:25 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED
+2025-07-04 10:35:36 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-04 10:35:45 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:35:51 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:35:52 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-04 10:35:52 INFO  Hooks:60 - Selected detected location.
+2025-07-04 10:35:56 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-04 10:35:57 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-04 10:35:57 INFO  Hooks:47 - No 'Best Deal' popup found.
+2025-07-04 10:35:58 INFO  Hooks:53 - Clicked 'All Filters' button.
+2025-07-04 10:36:01 INFO  Hooks:63 - Applied rating filter: 4.0+ stars.
+2025-07-04 10:36:01 INFO  Hooks:68 - Clicked 'Apply Filters' button.
+2025-07-04 10:36:03 INFO  Hooks:75 - Retrieving details for the first 5 car wash services.
+2025-07-04 10:36:32 INFO  Hooks:64 - Name: Krishna Tyres		Phone: 07942686807
+2025-07-04 10:36:32 INFO  Hooks:64 - Name: DD CAR EXPERTS		Phone: 07947134201
+2025-07-04 10:36:32 INFO  Hooks:64 - Name: MyTVS MultiBrand Car Service		Phone: 09740226850
+2025-07-04 10:36:32 INFO  Hooks:64 - Name: Popular Car Wash		Phone: 07942692933
+2025-07-04 10:36:32 INFO  Hooks:64 - Name: Futurex Car Care		Phone: 08123399852
+2025-07-04 10:36:37 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: PASSED
+2025-07-04 10:36:37 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-04 10:36:44 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:36:50 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:36:53 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-04 10:36:53 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-04 10:36:54 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-04 10:36:54 INFO  Hooks:53 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-04 10:36:54 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-04 10:36:54 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-04 10:36:59 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-04 10:36:59 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-04 10:37:08 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-04 10:37:14 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-04 10:37:15 INFO  Hooks:38 - Scrolled to Fitness category.
+2025-07-04 10:37:15 INFO  Hooks:43 - Clicked on Fitness category tab.
+2025-07-04 10:37:16 INFO  Hooks:48 - Selected 'Gyms' sub-category.
+2025-07-04 10:37:18 INFO  Hooks:45 - Printing the names of Gyms:
+2025-07-04 10:37:18 INFO  Hooks:48 - Fitzee Gym
+
+2025-07-04 10:37:18 INFO  Hooks:48 - Hiit360 Fitness Studio
+
+2025-07-04 10:37:18 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio (BMR Mall)
+
+2025-07-04 10:37:18 INFO  Hooks:48 - Sigma Lifestyle & Fitness Studio Gym
+
+2025-07-04 10:37:18 INFO  Hooks:48 - 24 X 7 Fitness Studio
+
+2025-07-04 10:37:18 INFO  Hooks:48 - ShapeMeup Lifestyle & Fitness Studio
+
+2025-07-04 10:37:18 INFO  Hooks:48 - Body Sculptures Fitness Studio
+
+2025-07-04 10:37:18 INFO  Hooks:48 - DFIT
+
+2025-07-04 10:37:18 INFO  Hooks:48 - Mac Fitness Studio
+Ad
+
+2025-07-04 10:37:18 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio
+Ad
+
+2025-07-04 10:37:22 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED

@@ -52,7 +52,7 @@ public class Hooks {
 
         // Navigate to the base URL and maximize the window
         driver.get(PropsLoader.URL);
-
+        logger.info("Navigated to Justdial homepage: " + PropsLoader.URL);
         // Handle the "Maybe Later" login popup if it appears
         try {
             wait.until(ExpectedConditions.visibilityOfElementLocated(By.linkText("Maybe Later"))).click();
@@ -61,14 +61,6 @@ public class Hooks {
             logger.info("No 'Maybe Later' popup found during setup.");
         }
     }
-
-    /**
-     * This method runs after each Cucumber scenario.
-     * It checks if the scenario has failed and, if so, takes a screenshot
-     * and attaches it to the Cucumber report. Finally, it quits the WebDriver.
-     *
-     * @param scenario The current Cucumber scenario being executed.
-     */
     @After
     public void teardown(Scenario scenario) {
         // Check if the scenario has failed

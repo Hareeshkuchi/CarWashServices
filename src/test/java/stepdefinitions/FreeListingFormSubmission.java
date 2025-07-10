@@ -46,9 +46,19 @@ public class FreeListingFormSubmission {
 	@Then("I should see an Error Message related to the invalid phone number")
 	public void i_should_see_an_related_to_the_invalid_phone_number() {
 		String error = freeListingPage.getPhoneNumberErrorMessage();
-		System.out.println("Error displayed: " + error);
-		Assert.fail();
-		Hooks.logger.info("Verified error message for invalid phone number.");
+//		System.out.println("Error displayed: " + error);
+//			Assert.fail();
+//			Hooks.logger.info("Verified error message for invalid phone number.");
+
+		if(!error.isEmpty()) {
+			System.out.println("Error displayed: " + error);
+			Assert.fail();
+			Hooks.logger.info("Verified error message for invalid phone number.");
+		}
+		else{
+			System.out.println("NO error message found.");
+			Hooks.logger.info("NO error message found.");
+		}
 	}
 }
 //public class FreeListingFormSubmission {

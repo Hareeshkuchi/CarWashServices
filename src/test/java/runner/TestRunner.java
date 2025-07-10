@@ -11,6 +11,7 @@ import org.junit.runner.RunWith;
         plugin = {"pretty",          // Prints Gherkin steps to console
                 "html:test-output/cucumber-reports/cucumber-html-report.html"
                 ,"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
+                ,"rerun:target/rerun.txt"
         },
         monochrome = true                       // Makes console output more readable
 //        ,tags = "@Carwash"       // Runs scenarios with these tags

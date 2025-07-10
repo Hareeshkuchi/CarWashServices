@@ -45,7 +45,7 @@ public class FitnessMenuNavigation {
 		Hooks.logger.info("Printing the names of Gyms:");
 		for (String name : gymNames) {
 //			System.out.println(name);
-			Hooks.logger.info(name+"\n");
+			Hooks.logger.info(name);
 		}
 	}
 }

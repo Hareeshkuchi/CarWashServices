@@ -8,7 +8,7 @@
                 <RegexFilter regex=".*Unable to find an exact match for CDP version.*" onMatch="DENY" onMismatch="NEUTRAL"/>
             </Filters>
         </Console>
-        <File name="FileLogger" fileName="logs/test-log.log">
+        <File name="FileLogger" fileName="test-output/logs/test-log.log">
             <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n"/>
         </File>
     </Appenders>

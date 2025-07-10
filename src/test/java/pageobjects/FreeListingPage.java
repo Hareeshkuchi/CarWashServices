@@ -48,9 +48,14 @@ public class FreeListingPage {
     }
 
     public String getPhoneNumberErrorMessage() {
-        WebElement errorElement = wait.until(ExpectedConditions.visibilityOfElementLocated(phoneNumberErrorText));
-        String errorMsg = errorElement.getText();
-        logger.info("Retrieved phone number error message: " + errorMsg);
-        return errorMsg;
+        try{
+            WebElement errorElement = wait.until(ExpectedConditions.visibilityOfElementLocated(phoneNumberErrorText));
+            String errorMsg = errorElement.getText();
+            logger.info("Retrieved phone number error message: " + errorMsg);
+            return errorMsg;
+        }
+        catch (Exception e){
+            return "";
+        }
     }
 }

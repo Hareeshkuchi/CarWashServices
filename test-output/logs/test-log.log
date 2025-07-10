@@ -1,0 +1,309 @@
+2025-07-09 15:03:43 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-09 15:03:54 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-09 15:04:00 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-09 15:04:00 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-09 15:04:01 INFO  Hooks:60 - Selected detected location.
+2025-07-09 15:04:05 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-09 15:04:06 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-09 15:04:06 INFO  Hooks:47 - No 'Best Deal' popup found.
+2025-07-09 15:04:07 INFO  Hooks:53 - Clicked 'All Filters' button.
+2025-07-09 15:04:08 INFO  Hooks:63 - Applied rating filter: 4.0+ stars.
+2025-07-09 15:04:09 INFO  Hooks:68 - Clicked 'Apply Filters' button.
+2025-07-09 15:04:10 INFO  Hooks:75 - Retrieving details for the first 5 car wash services.
+2025-07-09 15:04:40 INFO  Hooks:64 - Name: Krishna Tyres		Phone: 07942688620
+2025-07-09 15:04:40 INFO  Hooks:64 - Name: DD CAR EXPERTS		Phone: 07942678395
+2025-07-09 15:04:40 INFO  Hooks:64 - Name: MyTVS MultiBrand Car Service		Phone: 09740226850
+2025-07-09 15:04:40 INFO  Hooks:64 - Name: Popular Car Wash		Phone: 07947431117
+2025-07-09 15:04:40 INFO  Hooks:64 - Name: Futurex Car Care		Phone: 08123399852
+2025-07-09 15:04:46 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: PASSED
+2025-07-09 15:04:46 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-09 15:04:54 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-09 15:05:01 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-09 15:05:03 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-09 15:05:04 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-09 15:05:04 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-09 15:05:04 INFO  Hooks:53 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-09 15:05:04 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-09 15:05:05 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-09 15:05:09 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-09 15:05:09 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-09 15:05:18 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-09 15:05:24 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-09 15:05:24 INFO  Hooks:38 - Scrolled to Fitness category.
+2025-07-09 15:05:25 INFO  Hooks:43 - Clicked on Fitness category tab.
+2025-07-09 15:05:26 INFO  Hooks:48 - Selected 'Gyms' sub-category.
+2025-07-09 15:05:27 INFO  Hooks:45 - Printing the names of Gyms:
+2025-07-09 15:05:27 INFO  Hooks:48 - Fitzee Gym
+
+2025-07-09 15:05:27 INFO  Hooks:48 - Hiit360 Fitness Studio
+
+2025-07-09 15:05:27 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio (BMR Mall)
+
+2025-07-09 15:05:27 INFO  Hooks:48 - Sigma Lifestyle & Fitness Studio Gym
+
+2025-07-09 15:05:27 INFO  Hooks:48 - 24 X 7 Fitness Studio
+
+2025-07-09 15:05:27 INFO  Hooks:48 - ShapeMeup Lifestyle & Fitness Studio
+
+2025-07-09 15:05:27 INFO  Hooks:48 - Body Sculptures Fitness Studio
+
+2025-07-09 15:05:27 INFO  Hooks:48 - DFIT
+
+2025-07-09 15:05:27 INFO  Hooks:48 - Mac Fitness Studio
+Ad
+
+2025-07-09 15:05:27 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio
+Ad
+
+2025-07-09 15:05:32 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED
+2025-07-09 16:02:30 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-09 16:02:40 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-09 16:02:46 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-09 16:02:47 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-09 16:02:47 INFO  Hooks:60 - Selected detected location.
+2025-07-09 16:02:51 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-09 16:02:53 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-09 16:02:53 INFO  Hooks:47 - No 'Best Deal' popup found.
+2025-07-09 16:02:54 INFO  Hooks:53 - Clicked 'All Filters' button.
+2025-07-09 16:02:55 INFO  Hooks:63 - Applied rating filter: 4.0+ stars.
+2025-07-09 16:02:56 INFO  Hooks:68 - Clicked 'Apply Filters' button.
+2025-07-09 16:02:57 INFO  Hooks:75 - Retrieving details for the first 5 car wash services.
+2025-07-09 16:03:26 INFO  Hooks:64 - Name: Krishna Tyres		Phone: 07942694422
+2025-07-09 16:03:26 INFO  Hooks:64 - Name: DD CAR EXPERTS		Phone: 07947149954
+2025-07-09 16:03:26 INFO  Hooks:64 - Name: MyTVS MultiBrand Car Service		Phone: 09740226850
+2025-07-09 16:03:26 INFO  Hooks:64 - Name: Popular Car Wash		Phone: 07947118502
+2025-07-09 16:03:26 INFO  Hooks:64 - Name: Futurex Car Care		Phone: 08123399852
+2025-07-09 16:03:32 INFO  Hooks:87 - Finished scenario: Display top 5 car wash services meeting criteria with status: PASSED
+2025-07-09 16:03:32 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-09 16:03:41 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-09 16:03:47 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-09 16:03:49 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-09 16:03:49 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-09 16:03:50 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-09 16:03:50 INFO  Hooks:53 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-09 16:03:50 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-09 16:03:51 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-09 16:03:55 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-09 16:03:55 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-09 16:04:04 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-09 16:04:10 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-09 16:04:11 INFO  Hooks:38 - Scrolled to Fitness category.
+2025-07-09 16:04:11 INFO  Hooks:43 - Clicked on Fitness category tab.
+2025-07-09 16:04:12 INFO  Hooks:48 - Selected 'Gyms' sub-category.
+2025-07-09 16:04:14 INFO  Hooks:45 - Printing the names of Gyms:
+2025-07-09 16:04:14 INFO  Hooks:48 - Fitzee Gym
+2025-07-09 16:04:14 INFO  Hooks:48 - Hiit360 Fitness Studio
+2025-07-09 16:04:14 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio (BMR Mall)
+2025-07-09 16:04:14 INFO  Hooks:48 - Sigma Lifestyle & Fitness Studio Gym
+2025-07-09 16:04:14 INFO  Hooks:48 - 24 X 7 Fitness Studio
+2025-07-09 16:04:14 INFO  Hooks:48 - ShapeMeup Lifestyle & Fitness Studio
+2025-07-09 16:04:14 INFO  Hooks:48 - Body Sculptures Fitness Studio
+2025-07-09 16:04:14 INFO  Hooks:48 - DFIT
+2025-07-09 16:04:14 INFO  Hooks:48 - Mac Fitness Studio
+Ad
+2025-07-09 16:04:14 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio
+Ad
+2025-07-09 16:04:18 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED
+2025-07-09 16:48:04 INFO  Hooks:41 - Starting scenario: Display top 5 car wash services meeting criteria
+2025-07-09 16:48:15 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-09 16:48:20 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-09 16:48:20 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-09 16:48:21 INFO  Hooks:60 - Selected detected location.
+2025-07-09 16:48:25 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-09 16:48:26 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-09 16:48:26 INFO  Hooks:47 - No 'Best Deal' popup found.
+2025-07-09 16:48:28 INFO  Hooks:53 - Clicked 'All Filters' button.
+2025-07-09 16:48:29 INFO  Hooks:63 - Applied rating filter: 4.0+ stars.
+2025-07-09 16:48:29 INFO  Hooks:68 - Clicked 'Apply Filters' button.
+2025-07-09 16:48:31 INFO  Hooks:75 - Retrieving details for the first 5 car wash services.
+2025-07-09 16:48:50 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-09 16:48:59 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-09 16:49:06 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-09 16:49:11 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-09 16:49:13 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-09 16:49:14 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-09 16:49:14 INFO  Hooks:53 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-09 16:49:14 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-09 16:49:14 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-09 16:49:18 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-10 09:32:30 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-10 09:32:35 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-10 09:32:35 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-10 09:32:37 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-10 09:43:02 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-10 09:43:09 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-10 09:43:16 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-10 09:43:18 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-10 09:43:20 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-10 09:43:20 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-10 09:43:20 ERROR Hooks:54 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-10 09:43:20 INFO  Hooks:56 - NO error message found.
+2025-07-10 09:43:24 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: PASSED
+2025-07-10 09:45:51 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-10 09:45:58 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-10 09:46:04 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-10 09:46:06 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-10 09:46:07 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-10 09:46:08 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-10 09:46:08 ERROR Hooks:54 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-10 09:46:08 INFO  Hooks:51 - Verified error message for invalid phone number.
+2025-07-10 09:46:08 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-10 09:46:08 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-10 09:46:11 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-10 09:47:57 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-10 09:48:04 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-10 09:48:10 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-10 09:48:12 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-10 09:48:13 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-10 09:48:13 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-10 09:48:13 ERROR Hooks:54 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-10 09:48:13 INFO  Hooks:51 - Verified error message for invalid phone number.
+2025-07-10 09:48:13 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-10 09:48:14 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-10 09:48:17 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-10 11:35:33 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-10 11:35:44 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-10 11:35:50 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-10 11:35:53 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-10 11:35:56 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-10 11:35:57 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-10 11:35:57 ERROR Hooks:54 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-10 11:35:57 INFO  Hooks:51 - Verified error message for invalid phone number.
+2025-07-10 11:35:57 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-10 11:35:58 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-10 11:36:01 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-10 11:38:15 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-10 11:38:26 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-10 11:38:32 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-10 11:38:34 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-10 11:38:37 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-10 11:38:38 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-10 11:38:38 ERROR Hooks:54 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-10 11:38:38 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-10 11:38:38 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-10 11:38:43 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-10 11:39:58 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-10 11:40:09 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-10 11:40:15 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-10 11:40:17 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-10 11:40:20 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-10 11:40:21 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-10 11:40:21 INFO  Hooks:54 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-10 11:40:21 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-10 11:40:21 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-10 11:40:26 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-10 11:44:33 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-10 11:44:43 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-10 11:44:48 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-10 11:44:52 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-10 11:44:54 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-10 11:44:55 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-10 11:44:55 INFO  Hooks:54 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-10 11:44:55 INFO  Hooks:55 - Verified error message for invalid phone number: 'Please Enter a Valid Mobile Number'.
+2025-07-10 11:45:00 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: PASSED
+2025-07-10 11:47:32 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-10 11:47:37 INFO  Hooks:41 - Starting scenario: Display top n car wash services meeting criteria
+2025-07-10 11:47:43 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-10 11:47:49 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-10 11:47:51 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-10 11:47:52 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-10 11:47:56 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-10 11:47:56 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-10 11:47:57 INFO  Hooks:54 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-10 11:47:57 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-10 11:47:58 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-10 11:47:59 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-10 11:48:00 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-10 11:48:00 INFO  Hooks:60 - Selected detected location.
+2025-07-10 11:48:05 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-10 11:48:05 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-10 11:48:05 INFO  Hooks:47 - No 'Best Deal' popup found.
+2025-07-10 11:48:06 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-10 11:48:07 INFO  Hooks:53 - Clicked 'All Filters' button.
+2025-07-10 11:48:08 INFO  Hooks:63 - Applied rating filter: 4.0+ stars.
+2025-07-10 11:48:09 INFO  Hooks:68 - Clicked 'Apply Filters' button.
+2025-07-10 11:48:12 INFO  Hooks:75 - Retrieving details for the first 5 car wash services.
+2025-07-10 11:48:42 INFO  Hooks:64 - Name: Krishna Tyres		Phone: 07947427453
+2025-07-10 11:48:42 INFO  Hooks:64 - Name: DD CAR EXPERTS		Phone: 07942694286
+2025-07-10 11:48:42 INFO  Hooks:64 - Name: MyTVS MultiBrand Car Service		Phone: 09740226850
+2025-07-10 11:48:42 INFO  Hooks:64 - Name: Popular Car Wash		Phone: 07947143463
+2025-07-10 11:48:42 INFO  Hooks:64 - Name: Futurex Car Care		Phone: 08123399852
+2025-07-10 11:48:47 INFO  Hooks:87 - Finished scenario: Display top n car wash services meeting criteria with status: PASSED
+2025-07-10 11:48:47 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-10 11:48:56 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-10 11:49:02 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-10 11:49:05 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-10 11:49:05 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-10 11:49:06 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-10 11:49:06 INFO  Hooks:54 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-10 11:49:06 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-10 11:49:07 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-10 11:49:11 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-10 11:49:11 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-10 11:49:21 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-10 11:49:27 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-10 11:49:27 INFO  Hooks:38 - Scrolled to Fitness category.
+2025-07-10 11:49:28 INFO  Hooks:43 - Clicked on Fitness category tab.
+2025-07-10 11:49:29 INFO  Hooks:48 - Selected 'Gyms' sub-category.
+2025-07-10 11:49:31 INFO  Hooks:45 - Printing the names of Gyms:
+2025-07-10 11:49:31 INFO  Hooks:48 - Fitzee Gym
+2025-07-10 11:49:31 INFO  Hooks:48 - Hiit360 Fitness Studio
+2025-07-10 11:49:31 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio (BMR Mall)
+2025-07-10 11:49:31 INFO  Hooks:48 - Sigma Lifestyle & Fitness Studio Gym
+2025-07-10 11:49:31 INFO  Hooks:48 - 24 X 7 Fitness Studio
+2025-07-10 11:49:31 INFO  Hooks:48 - ShapeMeup Lifestyle & Fitness Studio
+2025-07-10 11:49:31 INFO  Hooks:48 - Body Sculptures Fitness Studio
+2025-07-10 11:49:31 INFO  Hooks:48 - DFIT
+2025-07-10 11:49:31 INFO  Hooks:48 - Mac Fitness Studio
+Ad
+2025-07-10 11:49:31 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio
+Ad
+2025-07-10 11:49:35 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED
+2025-07-10 11:50:54 INFO  Hooks:41 - Starting scenario: Display top n car wash services meeting criteria
+2025-07-10 11:51:03 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-10 11:51:10 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-10 11:51:10 INFO  Hooks:54 - Clicked on city auto suggest input.
+2025-07-10 11:51:11 INFO  Hooks:60 - Selected detected location.
+2025-07-10 11:51:15 INFO  Hooks:66 - Entered 'Car Washing Services' into search bar.
+2025-07-10 11:51:16 INFO  Hooks:71 - Selected the first auto-suggest item.
+2025-07-10 11:51:16 INFO  Hooks:47 - No 'Best Deal' popup found.
+2025-07-10 11:51:18 INFO  Hooks:53 - Clicked 'All Filters' button.
+2025-07-10 11:51:18 INFO  Hooks:63 - Applied rating filter: 4.0+ stars.
+2025-07-10 11:51:19 INFO  Hooks:68 - Clicked 'Apply Filters' button.
+2025-07-10 11:51:20 INFO  Hooks:75 - Retrieving details for the first 5 car wash services.
+2025-07-10 11:51:50 INFO  Hooks:64 - Name: Krishna Tyres		Phone: 07947433074
+2025-07-10 11:51:50 INFO  Hooks:64 - Name: DD CAR EXPERTS		Phone: 07947116754
+2025-07-10 11:51:50 INFO  Hooks:64 - Name: MyTVS MultiBrand Car Service		Phone: 09740226850
+2025-07-10 11:51:50 INFO  Hooks:64 - Name: Popular Car Wash		Phone: 07947113114
+2025-07-10 11:51:50 INFO  Hooks:64 - Name: Futurex Car Care		Phone: 08123399852
+2025-07-10 11:51:55 INFO  Hooks:87 - Finished scenario: Display top n car wash services meeting criteria with status: PASSED
+2025-07-10 11:51:55 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-10 11:52:04 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-10 11:52:10 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-10 11:52:12 INFO  Hooks:49 - Clicked on 'Free Listing' link.
+2025-07-10 11:52:13 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-10 11:52:13 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-10 11:52:14 INFO  Hooks:54 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-10 11:52:14 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-10 11:52:14 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-10 11:52:19 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-10 11:52:19 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-10 11:52:28 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-10 11:52:34 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-10 11:52:34 INFO  Hooks:38 - Scrolled to Fitness category.
+2025-07-10 11:52:35 INFO  Hooks:43 - Clicked on Fitness category tab.
+2025-07-10 11:52:36 INFO  Hooks:48 - Selected 'Gyms' sub-category.
+2025-07-10 11:52:38 INFO  Hooks:45 - Printing the names of Gyms:
+2025-07-10 11:52:38 INFO  Hooks:48 - Fitzee Gym
+2025-07-10 11:52:38 INFO  Hooks:48 - Hiit360 Fitness Studio
+2025-07-10 11:52:38 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio (BMR Mall)
+2025-07-10 11:52:38 INFO  Hooks:48 - Sigma Lifestyle & Fitness Studio Gym
+2025-07-10 11:52:38 INFO  Hooks:48 - 24 X 7 Fitness Studio
+2025-07-10 11:52:38 INFO  Hooks:48 - ShapeMeup Lifestyle & Fitness Studio
+2025-07-10 11:52:38 INFO  Hooks:48 - Body Sculptures Fitness Studio
+2025-07-10 11:52:38 INFO  Hooks:48 - DFIT
+2025-07-10 11:52:38 INFO  Hooks:48 - Mac Fitness Studio
+Ad
+2025-07-10 11:52:38 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio
+Ad
+2025-07-10 11:52:42 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED

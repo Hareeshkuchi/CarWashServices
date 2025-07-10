@@ -54,7 +54,7 @@ public class CarWashServicesPage {
     }
 
     public void applyRatingFilter(String rating) throws InterruptedException {
-        Thread.sleep(2000); // Consider replacing with explicit wait for filters to load
+//        Thread.sleep(2000); // Consider replacing with explicit wait for filters to load
         WebElement ratingElement = wait.until(ExpectedConditions.elementToBeClickable(ratingFilter(rating)));
 //        WebElement ratingElement = wait.until(ExpectedConditions.visibilityOfElementLocated(ratingFilter(rating)));
         js.executeScript("arguments[0].scrollIntoView()", ratingElement);
@@ -73,7 +73,7 @@ public class CarWashServicesPage {
         List<WebElement> servicesList = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(serviceResultBoxes));
 
         logger.info("Retrieving details for the first " + Math.min(servicesList.size(), count) + " car wash services.");
-        wait=new WebDriverWait(driver, Duration.ofSeconds(5));
+        wait=new WebDriverWait(driver, Duration.ofSeconds(3));
         for (int i = 0; i < Math.min(servicesList.size(), count); i++) {
             WebElement service = servicesList.get(i);
             js.executeScript("arguments[0].scrollIntoView()", service);

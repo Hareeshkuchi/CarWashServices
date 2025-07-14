@@ -307,3 +307,422 @@ Ad
 2025-07-10 11:52:38 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio
 Ad
 2025-07-10 11:52:42 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED
+2025-07-11 10:57:18 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-11 10:57:29 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-11 10:57:35 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-11 10:57:45 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-11 10:57:46 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-11 10:57:52 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-11 10:59:58 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-11 11:00:08 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-11 11:00:15 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-11 11:00:25 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-11 11:00:26 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-11 11:00:32 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-11 11:01:35 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-11 11:01:44 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-11 11:01:50 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-11 11:02:00 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-11 11:02:01 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-11 11:02:10 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-11 11:07:36 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-11 11:07:46 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-11 11:07:52 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-11 11:07:54 INFO  Hooks:51 - Clicked on 'Free Listing' link.
+2025-07-11 11:07:57 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-11 11:07:57 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-11 11:07:58 INFO  Hooks:54 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-11 11:07:58 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-11 11:07:59 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-11 11:08:04 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-11 13:57:52 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-11 13:58:04 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-11 13:58:10 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-11 13:58:13 INFO  Hooks:51 - Clicked on 'Free Listing' link.
+2025-07-11 13:58:15 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-11 13:58:16 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-11 13:58:16 INFO  Hooks:54 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-11 13:58:16 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-11 13:58:17 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-11 13:58:22 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-11 13:58:22 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-11 13:58:32 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-11 13:58:37 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-11 13:58:40 INFO  Hooks:51 - Clicked on 'Free Listing' link.
+2025-07-11 13:58:40 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-11 13:58:41 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-11 13:58:46 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-14 09:04:40 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-14 09:04:57 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-14 09:05:02 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-14 09:05:06 INFO  Hooks:51 - Clicked on 'Free Listing' link.
+2025-07-14 09:05:08 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-14 09:05:09 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-14 09:05:09 INFO  Hooks:54 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-14 09:05:09 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-14 09:05:10 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-14 09:05:18 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-14 09:05:18 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-14 09:05:53 INFO  Hooks:41 - Starting scenario: Display top n car wash services meeting criteria
+2025-07-14 09:06:10 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-14 09:06:16 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-14 09:06:16 INFO  Hooks:57 - Clicked on city auto suggest input.
+2025-07-14 09:06:17 INFO  Hooks:63 - Selected detected location.
+2025-07-14 09:06:22 INFO  Hooks:69 - Entered 'Car Washing Services' into search bar.
+2025-07-14 09:06:22 INFO  Hooks:74 - Selected the first auto-suggest item.
+2025-07-14 09:06:23 INFO  Hooks:47 - No 'Best Deal' popup found.
+2025-07-14 09:06:24 INFO  Hooks:53 - Clicked 'All Filters' button.
+2025-07-14 09:06:25 INFO  Hooks:63 - Applied rating filter: 4.0+ stars.
+2025-07-14 09:06:26 INFO  Hooks:68 - Clicked 'Apply Filters' button.
+2025-07-14 09:06:27 INFO  Hooks:75 - Retrieving details for the first 5 car wash services.
+2025-07-14 09:07:03 INFO  Hooks:64 - Name: Krishna Tyres		Phone: 07942680313
+2025-07-14 09:07:03 INFO  Hooks:64 - Name: DD CAR EXPERTS		Phone: 07947106238
+2025-07-14 09:07:03 INFO  Hooks:64 - Name: MyTVS MultiBrand Car Service		Phone: 09740226850
+2025-07-14 09:07:03 INFO  Hooks:64 - Name: Popular Car Wash		Phone: 07947115448
+2025-07-14 09:07:03 INFO  Hooks:64 - Name: Futurex Car Care		Phone: 08123399852
+2025-07-14 09:07:10 INFO  Hooks:87 - Finished scenario: Display top n car wash services meeting criteria with status: PASSED
+2025-07-14 09:07:10 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-14 09:07:20 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-14 09:07:26 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-14 09:07:30 INFO  Hooks:51 - Clicked on 'Free Listing' link.
+2025-07-14 09:07:31 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-14 09:07:32 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-14 09:07:32 INFO  Hooks:54 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-14 09:07:32 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-14 09:07:33 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-14 09:07:38 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-14 09:07:38 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-14 09:07:48 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-14 09:07:54 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-14 09:07:57 INFO  Hooks:51 - Clicked on 'Free Listing' link.
+2025-07-14 09:07:57 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-14 09:07:58 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-14 09:08:03 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-14 09:08:03 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-14 09:08:08 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-14 09:08:19 INFO  Hooks:61 - No 'Maybe Later' popup found during setup.
+2025-07-14 09:08:29 ERROR Hooks:68 - Scenario failed: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-14 09:08:30 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-14 09:08:36 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: FAILED
+2025-07-14 09:13:34 INFO  Hooks:41 - Starting scenario: Display top n car wash services meeting criteria
+2025-07-14 09:13:51 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-14 09:13:57 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-14 09:13:57 INFO  Hooks:57 - Clicked on city auto suggest input.
+2025-07-14 09:13:58 INFO  Hooks:63 - Selected detected location.
+2025-07-14 09:14:03 INFO  Hooks:69 - Entered 'Car Washing Services' into search bar.
+2025-07-14 09:14:04 INFO  Hooks:74 - Selected the first auto-suggest item.
+2025-07-14 09:14:07 INFO  Hooks:47 - No 'Best Deal' popup found.
+2025-07-14 09:14:16 ERROR Hooks:68 - Scenario failed: Display top n car wash services meeting criteria
+2025-07-14 09:14:16 ERROR Hooks:79 - WebDriver error while taking screenshot: Error communicating with the remote browser. It may have died.
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [095da74691e0d3a4b718520c00b2f608, screenshot []]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 138.0.3351.83, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57821}, msedge: {msedgedriverVersion: 138.0.3351.83 (16e2a7bef320..., userDataDir: C:\Users\2408719\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57821/devtoo..., se:cdpVersion: 138.0.3351.83, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 095da74691e0d3a4b718520c00b2f608
+org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [095da74691e0d3a4b718520c00b2f608, screenshot []]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 138.0.3351.83, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57821}, msedge: {msedgedriverVersion: 138.0.3351.83 (16e2a7bef320..., userDataDir: C:\Users\2408719\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57821/devtoo..., se:cdpVersion: 138.0.3351.83, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 095da74691e0d3a4b718520c00b2f608
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:572) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:622) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:334) ~[selenium-remote-driver-4.32.0.jar:?]
+	at stepdefinitions.Hooks.teardown(Hooks.java:73) [test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) [cucumber-java-7.23.0.jar:7.23.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) [cucumber-java-7.23.0.jar:7.23.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) [cucumber-java-7.23.0.jar:7.23.0]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:68) [cucumber-java-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:47) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:92) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:77) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.lambda$run$0(PickleRunners.java:151) [cucumber-junit-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:148) [cucumber-junit-7.23.0.jar:7.23.0]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144) [cucumber-junit-7.23.0.jar:7.23.0]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28) [cucumber-junit-7.23.0.jar:7.23.0]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) [junit-4.13.2.jar:4.13.2]
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137) [cucumber-junit-7.23.0.jar:7.23.0]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:199) [cucumber-junit-7.23.0.jar:7.23.0]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89) [cucumber-junit-7.23.0.jar:7.23.0]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) [junit-4.13.2.jar:4.13.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:229) [cucumber-junit-7.23.0.jar:7.23.0]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.13.2.jar:4.13.2]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69) [junit-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) [idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) [junit-rt.jar:?]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:500) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$2(JdkHttpClient.java:387) ~[selenium-http-4.32.0.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:328) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:923) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:459) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$2(JdkHttpClient.java:387) ~[selenium-http-4.32.0.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:328) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1046) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:215) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:268) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:226) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:980) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:957) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:556) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run$$$capture(CompletableFuture.java:1819) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:204) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:942) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:203) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:268) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:226) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:980) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:957) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:556) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run$$$capture(CompletableFuture.java:1819) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1447) ~[?:?]
+2025-07-14 09:14:16 INFO  Hooks:87 - Finished scenario: Display top n car wash services meeting criteria with status: FAILED
+2025-07-14 09:14:16 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-14 09:14:23 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-14 09:14:39 INFO  Hooks:41 - Starting scenario: Display top n car wash services meeting criteria
+2025-07-14 09:14:53 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-14 09:14:59 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-14 09:14:59 INFO  Hooks:57 - Clicked on city auto suggest input.
+2025-07-14 09:14:59 INFO  Hooks:63 - Selected detected location.
+2025-07-14 09:15:03 INFO  Hooks:69 - Entered 'Car Washing Services' into search bar.
+2025-07-14 09:15:03 INFO  Hooks:74 - Selected the first auto-suggest item.
+2025-07-14 09:15:04 INFO  Hooks:47 - No 'Best Deal' popup found.
+2025-07-14 09:15:05 INFO  Hooks:53 - Clicked 'All Filters' button.
+2025-07-14 09:15:06 INFO  Hooks:63 - Applied rating filter: 4.0+ stars.
+2025-07-14 09:15:06 INFO  Hooks:68 - Clicked 'Apply Filters' button.
+2025-07-14 09:15:08 INFO  Hooks:75 - Retrieving details for the first 5 car wash services.
+2025-07-14 09:15:37 INFO  Hooks:64 - Name: Krishna Tyres		Phone: 07942700616
+2025-07-14 09:15:37 INFO  Hooks:64 - Name: DD CAR EXPERTS		Phone: 07947123022
+2025-07-14 09:15:37 INFO  Hooks:64 - Name: MyTVS MultiBrand Car Service		Phone: 09740226850
+2025-07-14 09:15:37 INFO  Hooks:64 - Name: Popular Car Wash		Phone: 07947115448
+2025-07-14 09:15:37 INFO  Hooks:64 - Name: Futurex Car Care		Phone: 08123399852
+2025-07-14 09:15:43 INFO  Hooks:87 - Finished scenario: Display top n car wash services meeting criteria with status: PASSED
+2025-07-14 09:15:43 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-14 09:15:53 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-14 09:15:59 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-14 09:16:02 INFO  Hooks:51 - Clicked on 'Free Listing' link.
+2025-07-14 09:16:02 INFO  Hooks:42 - Entered '123' into mobile number input.
+2025-07-14 09:16:03 INFO  Hooks:47 - Clicked 'Start Now' button.
+2025-07-14 09:16:03 INFO  Hooks:54 - Retrieved phone number error message: Please Enter a Valid Mobile Number
+2025-07-14 09:16:03 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-14 09:16:04 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-14 09:16:08 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-14 09:16:08 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-14 09:16:18 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-14 09:16:24 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-14 09:16:25 INFO  Hooks:38 - Scrolled to Fitness category.
+2025-07-14 09:16:25 INFO  Hooks:43 - Clicked on Fitness category tab.
+2025-07-14 09:16:26 INFO  Hooks:48 - Selected 'Gyms' sub-category.
+2025-07-14 09:16:28 INFO  Hooks:45 - Printing the names of Gyms:
+2025-07-14 09:16:28 INFO  Hooks:48 - Fitzee Gym
+2025-07-14 09:16:28 INFO  Hooks:48 - Hiit360 Fitness Studio
+2025-07-14 09:16:28 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio (BMR Mall)
+2025-07-14 09:16:28 INFO  Hooks:48 - Sigma Lifestyle & Fitness Studio Gym
+2025-07-14 09:16:28 INFO  Hooks:48 - 24 X 7 Fitness Studio
+2025-07-14 09:16:28 INFO  Hooks:48 - ShapeMeup Lifestyle & Fitness Studio
+2025-07-14 09:16:28 INFO  Hooks:48 - Body Sculptures Fitness Studio
+2025-07-14 09:16:28 INFO  Hooks:48 - DFIT
+2025-07-14 09:16:28 INFO  Hooks:48 - Mac Fitness Studio
+Ad
+2025-07-14 09:16:28 INFO  Hooks:48 - Slam Lifestyle And Fitness Studio
+Ad
+2025-07-14 09:16:32 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: PASSED
+2025-07-14 09:19:06 INFO  Hooks:41 - Starting scenario: Display top n car wash services meeting criteria
+2025-07-14 09:19:21 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-14 09:19:26 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-14 09:19:27 INFO  Hooks:57 - Clicked on city auto suggest input.
+2025-07-14 09:19:27 INFO  Hooks:63 - Selected detected location.
+2025-07-14 09:19:32 INFO  Hooks:69 - Entered 'Car Washing Services' into search bar.
+2025-07-14 09:19:32 INFO  Hooks:74 - Selected the first auto-suggest item.
+2025-07-14 09:19:35 INFO  Hooks:47 - No 'Best Deal' popup found.
+2025-07-14 09:19:45 ERROR Hooks:68 - Scenario failed: Display top n car wash services meeting criteria
+2025-07-14 09:19:45 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Display top n car wash services meeting criteria
+2025-07-14 09:19:51 INFO  Hooks:87 - Finished scenario: Display top n car wash services meeting criteria with status: FAILED
+2025-07-14 09:19:51 INFO  Hooks:41 - Starting scenario: Capture error message on invalid phone number submission
+2025-07-14 09:20:02 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-14 09:20:09 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-14 09:20:12 INFO  Hooks:51 - Clicked on 'Free Listing' link.
+2025-07-14 09:20:22 ERROR Hooks:68 - Scenario failed: Capture error message on invalid phone number submission
+2025-07-14 09:20:22 INFO  Hooks:76 - Screenshot taken and attached for failed scenario: Capture error message on invalid phone number submission
+2025-07-14 09:20:29 INFO  Hooks:87 - Finished scenario: Capture error message on invalid phone number submission with status: FAILED
+2025-07-14 09:20:29 INFO  Hooks:41 - Starting scenario: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-14 09:20:37 INFO  Hooks:55 - Navigated to Justdial homepage: https://www.justdial.com
+2025-07-14 09:20:44 INFO  Hooks:59 - Clicked 'Maybe Later' popup during setup.
+2025-07-14 09:20:44 INFO  Hooks:38 - Scrolled to Fitness category.
+2025-07-14 09:20:45 INFO  Hooks:43 - Clicked on Fitness category tab.
+2025-07-14 09:20:48 INFO  Hooks:48 - Selected 'Gyms' sub-category.
+2025-07-14 09:20:57 ERROR Hooks:68 - Scenario failed: Retrieve and display sub-menu items under Fitness > Gym
+2025-07-14 09:20:57 ERROR Hooks:79 - WebDriver error while taking screenshot: Error communicating with the remote browser. It may have died.
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [6bdc14c7b1f199f9e0d384a491b33c19, screenshot []]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 138.0.3351.83, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59746}, msedge: {msedgedriverVersion: 138.0.3351.83 (16e2a7bef320..., userDataDir: C:\Users\2408719\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59746/devtoo..., se:cdpVersion: 138.0.3351.83, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6bdc14c7b1f199f9e0d384a491b33c19
+org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [6bdc14c7b1f199f9e0d384a491b33c19, screenshot []]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 138.0.3351.83, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59746}, msedge: {msedgedriverVersion: 138.0.3351.83 (16e2a7bef320..., userDataDir: C:\Users\2408719\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59746/devtoo..., se:cdpVersion: 138.0.3351.83, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6bdc14c7b1f199f9e0d384a491b33c19
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:572) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:622) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:334) ~[selenium-remote-driver-4.32.0.jar:?]
+	at stepdefinitions.Hooks.teardown(Hooks.java:73) [test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) [cucumber-java-7.23.0.jar:7.23.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) [cucumber-java-7.23.0.jar:7.23.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) [cucumber-java-7.23.0.jar:7.23.0]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:68) [cucumber-java-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:47) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:92) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:77) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.lambda$run$0(PickleRunners.java:151) [cucumber-junit-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:148) [cucumber-junit-7.23.0.jar:7.23.0]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144) [cucumber-junit-7.23.0.jar:7.23.0]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28) [cucumber-junit-7.23.0.jar:7.23.0]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) [junit-4.13.2.jar:4.13.2]
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137) [cucumber-junit-7.23.0.jar:7.23.0]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:199) [cucumber-junit-7.23.0.jar:7.23.0]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89) [cucumber-junit-7.23.0.jar:7.23.0]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) [junit-4.13.2.jar:4.13.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145) [cucumber-core-7.23.0.jar:7.23.0]
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:229) [cucumber-junit-7.23.0.jar:7.23.0]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.13.2.jar:4.13.2]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69) [junit-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) [idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) [junit-rt.jar:?]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:500) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$2(JdkHttpClient.java:387) ~[selenium-http-4.32.0.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:328) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:923) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:459) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.32.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$2(JdkHttpClient.java:387) ~[selenium-http-4.32.0.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:328) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1046) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:215) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:268) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:226) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:980) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:957) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:556) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run$$$capture(CompletableFuture.java:1819) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:204) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:942) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:203) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:268) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:226) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:980) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:957) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:556) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run$$$capture(CompletableFuture.java:1819) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1447) ~[?:?]
+2025-07-14 09:20:57 INFO  Hooks:87 - Finished scenario: Retrieve and display sub-menu items under Fitness > Gym with status: FAILED

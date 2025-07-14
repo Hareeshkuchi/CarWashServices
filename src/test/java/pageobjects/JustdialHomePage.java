@@ -15,7 +15,8 @@ public class JustdialHomePage {
 
     // Locators
     private final By maybeLaterLink = By.linkText("Maybe Later");
-    private final By freeListingLink = By.xpath("//*[@class='jsx-50d08bd883f6f57 headnav_item_text pl-5 font14 fw400 color111' and text()='Free Listing']");
+//    private final By freeListingLink = By.xpath("//*[@class='jsx-50d08bd883f6f57 headnav_item_text pl-5 font14 fw400 color111' and text()='Free Listing']");
+    private final By freeListingLink = By.xpath("//*[@id='header_freelisting']");
     private final By cityAutoSugInput = By.id("city-auto-sug");
     private final By detectedLocationText = By.xpath("//*[@class='location_text font14 fw400 color007']");
     private final By mainAutoSuggestInput = By.id("main-auto");
@@ -46,7 +47,9 @@ public class JustdialHomePage {
 
     public void clickFreeListing() {
         wait.until(ExpectedConditions.elementToBeClickable(freeListingLink)).click();
+//        wait.until(ExpectedConditions.visibilityOfElementLocated(freeListingLink)).click();
         logger.info("Clicked on 'Free Listing' link.");
+
     }
 
     public void clickCityAutoSuggest() {

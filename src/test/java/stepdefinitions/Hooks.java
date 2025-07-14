@@ -40,15 +40,15 @@ public class Hooks {
     public void setup(Scenario scenario) {
         logger.info("Starting scenario: " + scenario.getName());
 
+        PropsLoader.loadProps();
+
         // Initialize the WebDriver using DriverManager
-        driver = DriverManager.getDriver();
+        driver = DriverManager.getDriver(PropsLoader.browser);
         driver.manage().window().maximize();
         // Set up common WebDriver utilities
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 
-        // Load properties (ensure this is done only once, or handle re-loading if necessary)
-        PropsLoader.loadProps();
 
         // Navigate to the base URL and maximize the window
         driver.get(PropsLoader.URL);

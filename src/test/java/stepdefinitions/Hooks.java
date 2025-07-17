@@ -17,25 +17,13 @@ import utilities.PropsLoader;   // Assuming this class loads properties
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-/**
- * Hooks class for Cucumber scenarios.
- * This class contains methods that run before and after each scenario.
- * It handles WebDriver initialization and teardown, as well as taking screenshots on test failure.
- */
 public class Hooks {
 
     public  static final Logger logger = LogManager.getLogger(Hooks.class);
     public  static WebDriver driver; // Declare WebDriver here to be accessible within hooks
     public static WebDriverWait wait; // Declare WebDriverWait here for use in @Before hook
 
-    /**
-     * This method runs before each Cucumber scenario.
-     * It initializes the WebDriver, sets up implicit and explicit waits,
-     * maximizes the browser window, navigates to the base URL,
-     * and handles any initial popups.
-     *
-     * @param scenario The current Cucumber scenario being executed.
-     */
+
     @Before
     public void setup(Scenario scenario) {
         logger.info("Starting scenario: " + scenario.getName());

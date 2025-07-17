@@ -14,8 +14,7 @@ import org.junit.runner.RunWith;
 //                ,"json:target/cucumber-reports/rerun.json"
 //                ,"junit:target/cucumber-reports/rerun.xml"
         },
-        monochrome = true,
-        publish = true
+        monochrome = true
 )
 public class FailedScenariosRunner {
     // This runner will execute only the scenarios listed in rerun.txt
